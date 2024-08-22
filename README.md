@@ -25,6 +25,10 @@ To ensure maximum power transfer and minimize reflections, impedance matching is
 Each patch antenna is edge-fed, meaning the feed point is located at the edge of the patch. The edge feed is chosen to match the input impedance of the patch antenna, typically 50 ohms. Proper excitation ensures that each patch radiates efficiently and in the desired pattern.
 
 ### 5. Dynamic Behavior
+
 The term "dynamic link" implies that the feeding network can adapt to changes in the operating conditions, such as frequency, load impedance, or even environmental factors. In more advanced systems, this could involve electronically tunable components like varactors or MEMS switches to adjust the impedance matching or phase shifting dynamically.
 
 By properly designing the dynamic link, the 1x2 array can achieve efficient radiation patterns, good impedance matching, and minimal mutual coupling between the patches, leading to better overall performance.
+
+## Circuit Design
+![Screenshot 2024-08-22 183715](https://github.com/user-attachments/assets/cb95ca4e-a206-4e5c-b064-1f7fafc8907b)
